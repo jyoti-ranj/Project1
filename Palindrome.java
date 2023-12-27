@@ -1,5 +1,5 @@
 class PalindromeExample{  
-/*1st comment for palindrome*/ 
+/*comment in palindrome*/
   temp=n;    
   while(n>0){    
    r=n%10;  //getting remainder  
